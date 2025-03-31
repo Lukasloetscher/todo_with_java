@@ -6,6 +6,7 @@ A website to manage my todos as well as  larp planning
 This is a hobby project, which i also use to learn new stuff. As such i do not always optimise for efficency, but also for fun in order to code this. (i.e. some stuff my be overengineered or simplified.)
 
 #Plan of action:
+- dfooing this tutorial first: https://www.udemy.com/course/maven-quick-start/learn/lecture/4243146#overview to get a better understanding (doing this without version control...)
 - figure out how to connect eclipse with Github (really this can not vbe that hard...)
 - set up base code for a simple version of the website (a mvp that is missing a lot of features)
 - build the code as a docker file
