@@ -1,9 +1,12 @@
 package main;
 
+import myutility.MyLogger;
+
+
 public class todo_with_java {
 
 	public static void main(String[] args) {
-		System.out.println("helloWorld");
+		MyLogger.println("HelloWorld");
 	}
 
 }
